@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Prisoner-Game
-=======
-
 # Prisoner Game 
 
 ### Author: Tarasidou Anna
